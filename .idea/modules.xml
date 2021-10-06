@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-modular-architecture.iml" filepath="$PROJECT_DIR$/.idea/modules/android-modular-architecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-modular-architecture.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-modular-architecture.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-modular-architecture.buildSrc.iml" filepath="$PROJECT_DIR$/.idea/modules/android-modular-architecture.buildSrc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commons/android-modular-architecture.commons.iml" filepath="$PROJECT_DIR$/.idea/modules/commons/android-modular-architecture.commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commons/ui/android-modular-architecture.commons.ui.iml" filepath="$PROJECT_DIR$/.idea/modules/commons/ui/android-modular-architecture.commons.ui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commons/views/android-modular-architecture.commons.views.iml" filepath="$PROJECT_DIR$/.idea/modules/commons/views/android-modular-architecture.commons.views.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/android-modular-architecture.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/android-modular-architecture.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/android-modular-architecture.features.iml" filepath="$PROJECT_DIR$/.idea/modules/features/android-modular-architecture.features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/characters_favorites/android-modular-architecture.features.characters_favorites.iml" filepath="$PROJECT_DIR$/.idea/modules/features/characters_favorites/android-modular-architecture.features.characters_favorites.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/characters_list/android-modular-architecture.features.characters_list.iml" filepath="$PROJECT_DIR$/.idea/modules/features/characters_list/android-modular-architecture.features.characters_list.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/features/home/android-modular-architecture.features.home.iml" filepath="$PROJECT_DIR$/.idea/modules/features/home/android-modular-architecture.features.home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libraries/android-modular-architecture.libraries.iml" filepath="$PROJECT_DIR$/.idea/modules/libraries/android-modular-architecture.libraries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/libraries/test_utils/android-modular-architecture.libraries.test_utils.iml" filepath="$PROJECT_DIR$/.idea/modules/libraries/test_utils/android-modular-architecture.libraries.test_utils.iml" />
+    </modules>
+  </component>
+</project>
